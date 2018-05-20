@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式", "适配器模式\适配器模式.csproj", "{D510832F-97EA-4BA8-826B-81746ECC46CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{B1A455BD-8C76-4DA8-8BB7-9B4D02FBC0AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D510832F-97EA-4BA8-826B-81746ECC46CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D510832F-97EA-4BA8-826B-81746ECC46CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D510832F-97EA-4BA8-826B-81746ECC46CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A455BD-8C76-4DA8-8BB7-9B4D02FBC0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A455BD-8C76-4DA8-8BB7-9B4D02FBC0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A455BD-8C76-4DA8-8BB7-9B4D02FBC0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A455BD-8C76-4DA8-8BB7-9B4D02FBC0AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
