@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式", "适配�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{B1A455BD-8C76-4DA8-8BB7-9B4D02FBC0AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中介者模式", "中介者模式\中介者模式.csproj", "{EF477448-8FB5-47AC-8E90-A72EAF6E2812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "中介者模式", "中介者模式\中介者模式.csproj", "{EF477448-8FB5-47AC-8E90-A72EAF6E2812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "生产者消费者", "生产者消费者\生产者消费者.csproj", "{623F6D33-F814-4066-B611-FCBDACE9EC11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EF477448-8FB5-47AC-8E90-A72EAF6E2812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF477448-8FB5-47AC-8E90-A72EAF6E2812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF477448-8FB5-47AC-8E90-A72EAF6E2812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623F6D33-F814-4066-B611-FCBDACE9EC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623F6D33-F814-4066-B611-FCBDACE9EC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623F6D33-F814-4066-B611-FCBDACE9EC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623F6D33-F814-4066-B611-FCBDACE9EC11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
